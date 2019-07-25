@@ -1,4 +1,4 @@
-# laravelInstantChatApp
+# laravelInstantChatApp 5.4
 This is a laravel instant chat application, it uses pusher as the socket connection. 
 
 # TO USE
